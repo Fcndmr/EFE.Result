@@ -16,6 +16,7 @@
     <PackageTags>Result;ErrorHandling;API;Framework</PackageTags>
     <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Fcndmr/EFE.Result</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
